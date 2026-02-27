@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import faiss
 import os
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -20,12 +20,13 @@ print(f"Using device: {device}")
 # --- DYNAMIC PATH ---
 current_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(current_dir, "tinyllama-career-counselor")
+dataset_path = os.path.join(current_dir, "final_20_careers_dataset.csv")
 
 # ---------------------------
 # LOAD DATA
 # ---------------------------
 print("Loading dataset...")
-df = pd.read_csv("final_20_careers_dataset.csv").fillna("Not specified")
+df = pd.read_csv(dataset_path).fillna("Not specified")
 
 # ---------------------------
 # LOAD EMBEDDING MODEL (ON GPU)
@@ -68,11 +69,17 @@ print("Loading Fine-Tuned LLM on GPU...")
 
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
-llm_model = AutoModelForCausalLM.from_pretrained(
-    model_path,
-    torch_dtype=torch.float16,   # 🔥 faster on GPU
-    device_map="auto"            # automatically places on GPU
-)
+model_kwargs = {
+    "torch_dtype": torch.float16 if device == "cuda" else torch.float32,
+}
+
+if device == "cuda":
+    model_kwargs["device_map"] = "auto"
+
+llm_model = AutoModelForCausalLM.from_pretrained(model_path, **model_kwargs)
+
+if device == "cpu":
+    llm_model.to(device)
 
 llm_model.eval()
 
@@ -90,6 +97,10 @@ def get_recommendations(query):
 # ---------------------------
 # CHAT ROUTE
 # ---------------------------
+@app.route('/', methods=['GET'])
+def home():
+    return send_from_directory(current_dir, "index.html")
+
 @app.route('/chat', methods=['POST'])
 def chat():
     data = request.json
