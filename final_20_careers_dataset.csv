@@ -1,0 +1,21 @@
+career_id,career_name,category,stream_required,subjects_required,degree_required,entrance_exam,duration_years,key_skills,avg_salary_lpa,job_demand,work_life_balance,difficulty_level,competition_level,financial_investment,global_opportunities,future_scope
+1,Software Engineer,Tech,Science,PCM,B.Tech/B.E,None/University Exam,4,Coding; Problem Solving; Data Structures,6,High,Medium,Medium,High,Medium,Yes,Growing
+2,Data Scientist,Tech,Science,PCM,B.Tech/BSc/MSc,None,4,Python; Statistics; Machine Learning,8,High,Medium,High,High,Medium,Yes,Growing
+3,AI/ML Engineer,Tech,Science,PCM,B.Tech/M.Tech,None,4,Machine Learning; Deep Learning; Python,10,High,Medium,High,High,Medium,Yes,Growing
+4,Cybersecurity Analyst,Tech,Science,PCM,B.Tech/BSc,None,3,Network Security; Ethical Hacking,7,High,Medium,Medium,High,Low,Yes,Growing
+5,Mechanical Engineer,Tech,Science,PCM,B.Tech,University Exam,4,Design; Manufacturing; Problem Solving,5,Medium,Medium,Medium,Medium,Medium,Yes,Stable
+6,Civil Engineer,Tech,Science,PCM,B.Tech,University Exam,4,Construction; Planning; Site Management,5,High,Low,Medium,High,Medium,Yes,Stable
+7,Doctor,Non-Tech,Science,PCB,MBBS,NEET,5.5,Diagnosis; Patient Care; Medical Knowledge,8,High,Low,Very High,Very High,High,Yes,Growing
+8,Chartered Accountant,Non-Tech,Commerce,Accounts/Maths,CA,CA Foundation,4,Accounting; Taxation; Auditing,7,High,Medium,High,High,Medium,Yes,Stable
+9,Lawyer,Non-Tech,Any,None,LLB,CLAT,5,Legal Knowledge; Research; Argument,6,High,Medium,High,High,Medium,Yes,Stable
+10,Civil Services Officer,Non-Tech,Any,None,Graduation,UPSC,2,Administration; Leadership; Governance,10,High,Low,Very High,Very High,Low,Yes,Stable
+11,Investment Banker,Non-Tech,Commerce,Maths,BBA/MBA,None,5,Finance; Analysis; Communication,12,High,Low,High,High,High,Yes,Growing
+12,Psychologist,Non-Tech,Arts,Psychology,BA/MSc Psychology,None,5,Counselling; Empathy; Research,4,Medium,High,Medium,Medium,Medium,Yes,Growing
+13,Digital Marketing Manager,Tech,Any,None,BBA/BCom/Certification,None,3,SEO; Marketing; Analytics,6,High,High,Medium,High,Low,Yes,Growing
+14,Entrepreneur,Hybrid,Any,None,Optional,None,Variable,Leadership; Risk Taking; Management,Variable,High,Variable,High,High,Variable,Yes,Growing
+15,Architect,Hybrid,Science,PCM,B.Arch,NATA,5,Design; Creativity; Planning,6,High,Medium,High,High,High,Yes,Growing
+16,Commercial Pilot,Non-Tech,Science,PCM,Pilot Training,CPL Exam,3,Flying Skills; Decision Making,12,High,Low,High,High,Very High,Yes,Growing
+17,Biotechnology Scientist,Tech,Science,PCB,BSc/MSc Biotech,None,5,Lab Skills; Research; Analysis,5,Medium,Medium,High,Medium,Medium,Yes,Growing
+18,UI/UX Designer,Tech,Any,None,B.Des/BTech,None,3,Design Thinking; Prototyping; Creativity,7,High,High,Medium,High,Low,Yes,Growing
+19,Financial Analyst,Non-Tech,Commerce,Maths,BCom/MBA,None,3,Financial Modelling; Excel; Analysis,6,High,Medium,Medium,High,Low,Yes,Growing
+20,Professor/Lecturer,Non-Tech,Any,None,Master’s + PhD,NET/SET,7,Teaching; Research; Communication,5,Medium,High,High,Medium,Medium,Yes,Stable

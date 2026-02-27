@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "What is the average salary (LPA) for a Software Engineer?",
+        "answer": "The average salary for a Software Engineer is around 6 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Software Engineer?",
+        "answer": "The key skills for a Software Engineer include: Coding; Problem Solving; Data Structures."
+    },
+    {
+        "question": "What degree is required to become a Software Engineer?",
+        "answer": "To become a Software Engineer, you typically need a B.Tech/B.E."
+    },
+    {
+        "question": "Is there any entrance exam for Software Engineer?",
+        "answer": "The entrance exam for Software Engineer is: None/University Exam."
+    },
+    {
+        "question": "What is the future scope of a career as a Software Engineer?",
+        "answer": "The future scope for a Software Engineer is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Software Engineer?",
+        "answer": "The job demand for Software Engineer is High."
+    },
+    {
+        "question": "What is the duration in years to become a Software Engineer?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a Software Engineer?",
+        "answer": "The required subjects for Software Engineer are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Software Engineer?",
+        "answer": "Yes, global opportunities for Software Engineer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Software Engineer?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Software Engineer?",
+        "answer": "The work-life balance for a Software Engineer is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Software Engineer?",
+        "answer": "The required stream for Software Engineer is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Software Engineer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Software Engineer fall?",
+        "answer": "Software Engineer falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Software Engineer?",
+        "answer": "The competition level for Software Engineer is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Data Scientist?",
+        "answer": "The average salary for a Data Scientist is around 8 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Data Scientist?",
+        "answer": "The key skills for a Data Scientist include: Python; Statistics; Machine Learning."
+    },
+    {
+        "question": "What degree is required to become a Data Scientist?",
+        "answer": "To become a Data Scientist, you typically need a B.Tech/BSc/MSc."
+    },
+    {
+        "question": "Is there any entrance exam for Data Scientist?",
+        "answer": "The entrance exam for Data Scientist is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Data Scientist?",
+        "answer": "The future scope for a Data Scientist is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Data Scientist?",
+        "answer": "The job demand for Data Scientist is High."
+    },
+    {
+        "question": "What is the duration in years to become a Data Scientist?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a Data Scientist?",
+        "answer": "The required subjects for Data Scientist are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Data Scientist?",
+        "answer": "Yes, global opportunities for Data Scientist are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Data Scientist?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Data Scientist?",
+        "answer": "The work-life balance for a Data Scientist is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Data Scientist?",
+        "answer": "The required stream for Data Scientist is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Data Scientist?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Data Scientist fall?",
+        "answer": "Data Scientist falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Data Scientist?",
+        "answer": "The competition level for Data Scientist is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a AI/ML Engineer?",
+        "answer": "The average salary for a AI/ML Engineer is around 10 LPA."
+    },
+    {
+        "question": "What are the key skills required for a AI/ML Engineer?",
+        "answer": "The key skills for a AI/ML Engineer include: Machine Learning; Deep Learning; Python."
+    },
+    {
+        "question": "What degree is required to become a AI/ML Engineer?",
+        "answer": "To become a AI/ML Engineer, you typically need a B.Tech/M.Tech."
+    },
+    {
+        "question": "Is there any entrance exam for AI/ML Engineer?",
+        "answer": "The entrance exam for AI/ML Engineer is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a AI/ML Engineer?",
+        "answer": "The future scope for a AI/ML Engineer is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for AI/ML Engineer?",
+        "answer": "The job demand for AI/ML Engineer is High."
+    },
+    {
+        "question": "What is the duration in years to become a AI/ML Engineer?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a AI/ML Engineer?",
+        "answer": "The required subjects for AI/ML Engineer are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a AI/ML Engineer?",
+        "answer": "Yes, global opportunities for AI/ML Engineer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a AI/ML Engineer?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a AI/ML Engineer?",
+        "answer": "The work-life balance for a AI/ML Engineer is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for AI/ML Engineer?",
+        "answer": "The required stream for AI/ML Engineer is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in AI/ML Engineer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does AI/ML Engineer fall?",
+        "answer": "AI/ML Engineer falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a AI/ML Engineer?",
+        "answer": "The competition level for AI/ML Engineer is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Cybersecurity Analyst?",
+        "answer": "The average salary for a Cybersecurity Analyst is around 7 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Cybersecurity Analyst?",
+        "answer": "The key skills for a Cybersecurity Analyst include: Network Security; Ethical Hacking."
+    },
+    {
+        "question": "What degree is required to become a Cybersecurity Analyst?",
+        "answer": "To become a Cybersecurity Analyst, you typically need a B.Tech/BSc."
+    },
+    {
+        "question": "Is there any entrance exam for Cybersecurity Analyst?",
+        "answer": "The entrance exam for Cybersecurity Analyst is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Cybersecurity Analyst?",
+        "answer": "The future scope for a Cybersecurity Analyst is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Cybersecurity Analyst?",
+        "answer": "The job demand for Cybersecurity Analyst is High."
+    },
+    {
+        "question": "What is the duration in years to become a Cybersecurity Analyst?",
+        "answer": "It usually takes approximately 3 years."
+    },
+    {
+        "question": "What subjects are required for a Cybersecurity Analyst?",
+        "answer": "The required subjects for Cybersecurity Analyst are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Cybersecurity Analyst?",
+        "answer": "Yes, global opportunities for Cybersecurity Analyst are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Cybersecurity Analyst?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Cybersecurity Analyst?",
+        "answer": "The work-life balance for a Cybersecurity Analyst is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Cybersecurity Analyst?",
+        "answer": "The required stream for Cybersecurity Analyst is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Cybersecurity Analyst?",
+        "answer": "The financial investment is Low."
+    },
+    {
+        "question": "Under which category does Cybersecurity Analyst fall?",
+        "answer": "Cybersecurity Analyst falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Cybersecurity Analyst?",
+        "answer": "The competition level for Cybersecurity Analyst is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Mechanical Engineer?",
+        "answer": "The average salary for a Mechanical Engineer is around 5 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Mechanical Engineer?",
+        "answer": "The key skills for a Mechanical Engineer include: Design; Manufacturing; Problem Solving."
+    },
+    {
+        "question": "What degree is required to become a Mechanical Engineer?",
+        "answer": "To become a Mechanical Engineer, you typically need a B.Tech."
+    },
+    {
+        "question": "Is there any entrance exam for Mechanical Engineer?",
+        "answer": "The entrance exam for Mechanical Engineer is: University Exam."
+    },
+    {
+        "question": "What is the future scope of a career as a Mechanical Engineer?",
+        "answer": "The future scope for a Mechanical Engineer is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Mechanical Engineer?",
+        "answer": "The job demand for Mechanical Engineer is Medium."
+    },
+    {
+        "question": "What is the duration in years to become a Mechanical Engineer?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a Mechanical Engineer?",
+        "answer": "The required subjects for Mechanical Engineer are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Mechanical Engineer?",
+        "answer": "Yes, global opportunities for Mechanical Engineer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Mechanical Engineer?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Mechanical Engineer?",
+        "answer": "The work-life balance for a Mechanical Engineer is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Mechanical Engineer?",
+        "answer": "The required stream for Mechanical Engineer is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Mechanical Engineer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Mechanical Engineer fall?",
+        "answer": "Mechanical Engineer falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Mechanical Engineer?",
+        "answer": "The competition level for Mechanical Engineer is Medium."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Civil Engineer?",
+        "answer": "The average salary for a Civil Engineer is around 5 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Civil Engineer?",
+        "answer": "The key skills for a Civil Engineer include: Construction; Planning; Site Management."
+    },
+    {
+        "question": "What degree is required to become a Civil Engineer?",
+        "answer": "To become a Civil Engineer, you typically need a B.Tech."
+    },
+    {
+        "question": "Is there any entrance exam for Civil Engineer?",
+        "answer": "The entrance exam for Civil Engineer is: University Exam."
+    },
+    {
+        "question": "What is the future scope of a career as a Civil Engineer?",
+        "answer": "The future scope for a Civil Engineer is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Civil Engineer?",
+        "answer": "The job demand for Civil Engineer is High."
+    },
+    {
+        "question": "What is the duration in years to become a Civil Engineer?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a Civil Engineer?",
+        "answer": "The required subjects for Civil Engineer are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Civil Engineer?",
+        "answer": "Yes, global opportunities for Civil Engineer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Civil Engineer?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Civil Engineer?",
+        "answer": "The work-life balance for a Civil Engineer is generally Low."
+    },
+    {
+        "question": "Which academic stream is required for Civil Engineer?",
+        "answer": "The required stream for Civil Engineer is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Civil Engineer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Civil Engineer fall?",
+        "answer": "Civil Engineer falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Civil Engineer?",
+        "answer": "The competition level for Civil Engineer is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Doctor?",
+        "answer": "The average salary for a Doctor is around 8 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Doctor?",
+        "answer": "The key skills for a Doctor include: Diagnosis; Patient Care; Medical Knowledge."
+    },
+    {
+        "question": "What degree is required to become a Doctor?",
+        "answer": "To become a Doctor, you typically need a MBBS."
+    },
+    {
+        "question": "Is there any entrance exam for Doctor?",
+        "answer": "The entrance exam for Doctor is: NEET."
+    },
+    {
+        "question": "What is the future scope of a career as a Doctor?",
+        "answer": "The future scope for a Doctor is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Doctor?",
+        "answer": "The job demand for Doctor is High."
+    },
+    {
+        "question": "What is the duration in years to become a Doctor?",
+        "answer": "It usually takes approximately 5.5 years."
+    },
+    {
+        "question": "What subjects are required for a Doctor?",
+        "answer": "The required subjects for Doctor are: PCB."
+    },
+    {
+        "question": "Are there global opportunities for a Doctor?",
+        "answer": "Yes, global opportunities for Doctor are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Doctor?",
+        "answer": "The difficulty level is Very High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Doctor?",
+        "answer": "The work-life balance for a Doctor is generally Low."
+    },
+    {
+        "question": "Which academic stream is required for Doctor?",
+        "answer": "The required stream for Doctor is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Doctor?",
+        "answer": "The financial investment is High."
+    },
+    {
+        "question": "Under which category does Doctor fall?",
+        "answer": "Doctor falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Doctor?",
+        "answer": "The competition level for Doctor is Very High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Chartered Accountant?",
+        "answer": "The average salary for a Chartered Accountant is around 7 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Chartered Accountant?",
+        "answer": "The key skills for a Chartered Accountant include: Accounting; Taxation; Auditing."
+    },
+    {
+        "question": "What degree is required to become a Chartered Accountant?",
+        "answer": "To become a Chartered Accountant, you typically need a CA."
+    },
+    {
+        "question": "Is there any entrance exam for Chartered Accountant?",
+        "answer": "The entrance exam for Chartered Accountant is: CA Foundation."
+    },
+    {
+        "question": "What is the future scope of a career as a Chartered Accountant?",
+        "answer": "The future scope for a Chartered Accountant is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Chartered Accountant?",
+        "answer": "The job demand for Chartered Accountant is High."
+    },
+    {
+        "question": "What is the duration in years to become a Chartered Accountant?",
+        "answer": "It usually takes approximately 4 years."
+    },
+    {
+        "question": "What subjects are required for a Chartered Accountant?",
+        "answer": "The required subjects for Chartered Accountant are: Accounts/Maths."
+    },
+    {
+        "question": "Are there global opportunities for a Chartered Accountant?",
+        "answer": "Yes, global opportunities for Chartered Accountant are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Chartered Accountant?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Chartered Accountant?",
+        "answer": "The work-life balance for a Chartered Accountant is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Chartered Accountant?",
+        "answer": "The required stream for Chartered Accountant is Commerce."
+    },
+    {
+        "question": "What is the financial investment required for a career in Chartered Accountant?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Chartered Accountant fall?",
+        "answer": "Chartered Accountant falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Chartered Accountant?",
+        "answer": "The competition level for Chartered Accountant is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Lawyer?",
+        "answer": "The average salary for a Lawyer is around 6 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Lawyer?",
+        "answer": "The key skills for a Lawyer include: Legal Knowledge; Research; Argument."
+    },
+    {
+        "question": "What degree is required to become a Lawyer?",
+        "answer": "To become a Lawyer, you typically need a LLB."
+    },
+    {
+        "question": "Is there any entrance exam for Lawyer?",
+        "answer": "The entrance exam for Lawyer is: CLAT."
+    },
+    {
+        "question": "What is the future scope of a career as a Lawyer?",
+        "answer": "The future scope for a Lawyer is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Lawyer?",
+        "answer": "The job demand for Lawyer is High."
+    },
+    {
+        "question": "What is the duration in years to become a Lawyer?",
+        "answer": "It usually takes approximately 5 years."
+    },
+    {
+        "question": "What subjects are required for a Lawyer?",
+        "answer": "The required subjects for Lawyer are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a Lawyer?",
+        "answer": "Yes, global opportunities for Lawyer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Lawyer?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Lawyer?",
+        "answer": "The work-life balance for a Lawyer is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Lawyer?",
+        "answer": "The required stream for Lawyer is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in Lawyer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Lawyer fall?",
+        "answer": "Lawyer falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Lawyer?",
+        "answer": "The competition level for Lawyer is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Civil Services Officer?",
+        "answer": "The average salary for a Civil Services Officer is around 10 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Civil Services Officer?",
+        "answer": "The key skills for a Civil Services Officer include: Administration; Leadership; Governance."
+    },
+    {
+        "question": "What degree is required to become a Civil Services Officer?",
+        "answer": "To become a Civil Services Officer, you typically need a Graduation."
+    },
+    {
+        "question": "Is there any entrance exam for Civil Services Officer?",
+        "answer": "The entrance exam for Civil Services Officer is: UPSC."
+    },
+    {
+        "question": "What is the future scope of a career as a Civil Services Officer?",
+        "answer": "The future scope for a Civil Services Officer is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Civil Services Officer?",
+        "answer": "The job demand for Civil Services Officer is High."
+    },
+    {
+        "question": "What is the duration in years to become a Civil Services Officer?",
+        "answer": "It usually takes approximately 2 years."
+    },
+    {
+        "question": "What subjects are required for a Civil Services Officer?",
+        "answer": "The required subjects for Civil Services Officer are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a Civil Services Officer?",
+        "answer": "Yes, global opportunities for Civil Services Officer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Civil Services Officer?",
+        "answer": "The difficulty level is Very High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Civil Services Officer?",
+        "answer": "The work-life balance for a Civil Services Officer is generally Low."
+    },
+    {
+        "question": "Which academic stream is required for Civil Services Officer?",
+        "answer": "The required stream for Civil Services Officer is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in Civil Services Officer?",
+        "answer": "The financial investment is Low."
+    },
+    {
+        "question": "Under which category does Civil Services Officer fall?",
+        "answer": "Civil Services Officer falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Civil Services Officer?",
+        "answer": "The competition level for Civil Services Officer is Very High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Investment Banker?",
+        "answer": "The average salary for a Investment Banker is around 12 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Investment Banker?",
+        "answer": "The key skills for a Investment Banker include: Finance; Analysis; Communication."
+    },
+    {
+        "question": "What degree is required to become a Investment Banker?",
+        "answer": "To become a Investment Banker, you typically need a BBA/MBA."
+    },
+    {
+        "question": "Is there any entrance exam for Investment Banker?",
+        "answer": "The entrance exam for Investment Banker is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Investment Banker?",
+        "answer": "The future scope for a Investment Banker is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Investment Banker?",
+        "answer": "The job demand for Investment Banker is High."
+    },
+    {
+        "question": "What is the duration in years to become a Investment Banker?",
+        "answer": "It usually takes approximately 5 years."
+    },
+    {
+        "question": "What subjects are required for a Investment Banker?",
+        "answer": "The required subjects for Investment Banker are: Maths."
+    },
+    {
+        "question": "Are there global opportunities for a Investment Banker?",
+        "answer": "Yes, global opportunities for Investment Banker are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Investment Banker?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Investment Banker?",
+        "answer": "The work-life balance for a Investment Banker is generally Low."
+    },
+    {
+        "question": "Which academic stream is required for Investment Banker?",
+        "answer": "The required stream for Investment Banker is Commerce."
+    },
+    {
+        "question": "What is the financial investment required for a career in Investment Banker?",
+        "answer": "The financial investment is High."
+    },
+    {
+        "question": "Under which category does Investment Banker fall?",
+        "answer": "Investment Banker falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Investment Banker?",
+        "answer": "The competition level for Investment Banker is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Psychologist?",
+        "answer": "The average salary for a Psychologist is around 4 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Psychologist?",
+        "answer": "The key skills for a Psychologist include: Counselling; Empathy; Research."
+    },
+    {
+        "question": "What degree is required to become a Psychologist?",
+        "answer": "To become a Psychologist, you typically need a BA/MSc Psychology."
+    },
+    {
+        "question": "Is there any entrance exam for Psychologist?",
+        "answer": "The entrance exam for Psychologist is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Psychologist?",
+        "answer": "The future scope for a Psychologist is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Psychologist?",
+        "answer": "The job demand for Psychologist is Medium."
+    },
+    {
+        "question": "What is the duration in years to become a Psychologist?",
+        "answer": "It usually takes approximately 5 years."
+    },
+    {
+        "question": "What subjects are required for a Psychologist?",
+        "answer": "The required subjects for Psychologist are: Psychology."
+    },
+    {
+        "question": "Are there global opportunities for a Psychologist?",
+        "answer": "Yes, global opportunities for Psychologist are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Psychologist?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Psychologist?",
+        "answer": "The work-life balance for a Psychologist is generally High."
+    },
+    {
+        "question": "Which academic stream is required for Psychologist?",
+        "answer": "The required stream for Psychologist is Arts."
+    },
+    {
+        "question": "What is the financial investment required for a career in Psychologist?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Psychologist fall?",
+        "answer": "Psychologist falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Psychologist?",
+        "answer": "The competition level for Psychologist is Medium."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Digital Marketing Manager?",
+        "answer": "The average salary for a Digital Marketing Manager is around 6 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Digital Marketing Manager?",
+        "answer": "The key skills for a Digital Marketing Manager include: SEO; Marketing; Analytics."
+    },
+    {
+        "question": "What degree is required to become a Digital Marketing Manager?",
+        "answer": "To become a Digital Marketing Manager, you typically need a BBA/BCom/Certification."
+    },
+    {
+        "question": "Is there any entrance exam for Digital Marketing Manager?",
+        "answer": "The entrance exam for Digital Marketing Manager is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Digital Marketing Manager?",
+        "answer": "The future scope for a Digital Marketing Manager is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Digital Marketing Manager?",
+        "answer": "The job demand for Digital Marketing Manager is High."
+    },
+    {
+        "question": "What is the duration in years to become a Digital Marketing Manager?",
+        "answer": "It usually takes approximately 3 years."
+    },
+    {
+        "question": "What subjects are required for a Digital Marketing Manager?",
+        "answer": "The required subjects for Digital Marketing Manager are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a Digital Marketing Manager?",
+        "answer": "Yes, global opportunities for Digital Marketing Manager are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Digital Marketing Manager?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Digital Marketing Manager?",
+        "answer": "The work-life balance for a Digital Marketing Manager is generally High."
+    },
+    {
+        "question": "Which academic stream is required for Digital Marketing Manager?",
+        "answer": "The required stream for Digital Marketing Manager is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in Digital Marketing Manager?",
+        "answer": "The financial investment is Low."
+    },
+    {
+        "question": "Under which category does Digital Marketing Manager fall?",
+        "answer": "Digital Marketing Manager falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Digital Marketing Manager?",
+        "answer": "The competition level for Digital Marketing Manager is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Entrepreneur?",
+        "answer": "The average salary for a Entrepreneur is around Variable LPA."
+    },
+    {
+        "question": "What are the key skills required for a Entrepreneur?",
+        "answer": "The key skills for a Entrepreneur include: Leadership; Risk Taking; Management."
+    },
+    {
+        "question": "What degree is required to become a Entrepreneur?",
+        "answer": "To become a Entrepreneur, you typically need a Optional."
+    },
+    {
+        "question": "Is there any entrance exam for Entrepreneur?",
+        "answer": "The entrance exam for Entrepreneur is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Entrepreneur?",
+        "answer": "The future scope for a Entrepreneur is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Entrepreneur?",
+        "answer": "The job demand for Entrepreneur is High."
+    },
+    {
+        "question": "What is the duration in years to become a Entrepreneur?",
+        "answer": "It usually takes approximately Variable years."
+    },
+    {
+        "question": "What subjects are required for a Entrepreneur?",
+        "answer": "The required subjects for Entrepreneur are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a Entrepreneur?",
+        "answer": "Yes, global opportunities for Entrepreneur are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Entrepreneur?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Entrepreneur?",
+        "answer": "The work-life balance for a Entrepreneur is generally Variable."
+    },
+    {
+        "question": "Which academic stream is required for Entrepreneur?",
+        "answer": "The required stream for Entrepreneur is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in Entrepreneur?",
+        "answer": "The financial investment is Variable."
+    },
+    {
+        "question": "Under which category does Entrepreneur fall?",
+        "answer": "Entrepreneur falls under the Hybrid category."
+    },
+    {
+        "question": "What is the competition level for becoming a Entrepreneur?",
+        "answer": "The competition level for Entrepreneur is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Architect?",
+        "answer": "The average salary for a Architect is around 6 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Architect?",
+        "answer": "The key skills for a Architect include: Design; Creativity; Planning."
+    },
+    {
+        "question": "What degree is required to become a Architect?",
+        "answer": "To become a Architect, you typically need a B.Arch."
+    },
+    {
+        "question": "Is there any entrance exam for Architect?",
+        "answer": "The entrance exam for Architect is: NATA."
+    },
+    {
+        "question": "What is the future scope of a career as a Architect?",
+        "answer": "The future scope for a Architect is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Architect?",
+        "answer": "The job demand for Architect is High."
+    },
+    {
+        "question": "What is the duration in years to become a Architect?",
+        "answer": "It usually takes approximately 5 years."
+    },
+    {
+        "question": "What subjects are required for a Architect?",
+        "answer": "The required subjects for Architect are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Architect?",
+        "answer": "Yes, global opportunities for Architect are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Architect?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Architect?",
+        "answer": "The work-life balance for a Architect is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Architect?",
+        "answer": "The required stream for Architect is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Architect?",
+        "answer": "The financial investment is High."
+    },
+    {
+        "question": "Under which category does Architect fall?",
+        "answer": "Architect falls under the Hybrid category."
+    },
+    {
+        "question": "What is the competition level for becoming a Architect?",
+        "answer": "The competition level for Architect is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Commercial Pilot?",
+        "answer": "The average salary for a Commercial Pilot is around 12 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Commercial Pilot?",
+        "answer": "The key skills for a Commercial Pilot include: Flying Skills; Decision Making."
+    },
+    {
+        "question": "What degree is required to become a Commercial Pilot?",
+        "answer": "To become a Commercial Pilot, you typically need a Pilot Training."
+    },
+    {
+        "question": "Is there any entrance exam for Commercial Pilot?",
+        "answer": "The entrance exam for Commercial Pilot is: CPL Exam."
+    },
+    {
+        "question": "What is the future scope of a career as a Commercial Pilot?",
+        "answer": "The future scope for a Commercial Pilot is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Commercial Pilot?",
+        "answer": "The job demand for Commercial Pilot is High."
+    },
+    {
+        "question": "What is the duration in years to become a Commercial Pilot?",
+        "answer": "It usually takes approximately 3 years."
+    },
+    {
+        "question": "What subjects are required for a Commercial Pilot?",
+        "answer": "The required subjects for Commercial Pilot are: PCM."
+    },
+    {
+        "question": "Are there global opportunities for a Commercial Pilot?",
+        "answer": "Yes, global opportunities for Commercial Pilot are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Commercial Pilot?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Commercial Pilot?",
+        "answer": "The work-life balance for a Commercial Pilot is generally Low."
+    },
+    {
+        "question": "Which academic stream is required for Commercial Pilot?",
+        "answer": "The required stream for Commercial Pilot is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Commercial Pilot?",
+        "answer": "The financial investment is Very High."
+    },
+    {
+        "question": "Under which category does Commercial Pilot fall?",
+        "answer": "Commercial Pilot falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Commercial Pilot?",
+        "answer": "The competition level for Commercial Pilot is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Biotechnology Scientist?",
+        "answer": "The average salary for a Biotechnology Scientist is around 5 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Biotechnology Scientist?",
+        "answer": "The key skills for a Biotechnology Scientist include: Lab Skills; Research; Analysis."
+    },
+    {
+        "question": "What degree is required to become a Biotechnology Scientist?",
+        "answer": "To become a Biotechnology Scientist, you typically need a BSc/MSc Biotech."
+    },
+    {
+        "question": "Is there any entrance exam for Biotechnology Scientist?",
+        "answer": "The entrance exam for Biotechnology Scientist is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Biotechnology Scientist?",
+        "answer": "The future scope for a Biotechnology Scientist is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Biotechnology Scientist?",
+        "answer": "The job demand for Biotechnology Scientist is Medium."
+    },
+    {
+        "question": "What is the duration in years to become a Biotechnology Scientist?",
+        "answer": "It usually takes approximately 5 years."
+    },
+    {
+        "question": "What subjects are required for a Biotechnology Scientist?",
+        "answer": "The required subjects for Biotechnology Scientist are: PCB."
+    },
+    {
+        "question": "Are there global opportunities for a Biotechnology Scientist?",
+        "answer": "Yes, global opportunities for Biotechnology Scientist are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Biotechnology Scientist?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Biotechnology Scientist?",
+        "answer": "The work-life balance for a Biotechnology Scientist is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Biotechnology Scientist?",
+        "answer": "The required stream for Biotechnology Scientist is Science."
+    },
+    {
+        "question": "What is the financial investment required for a career in Biotechnology Scientist?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Biotechnology Scientist fall?",
+        "answer": "Biotechnology Scientist falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Biotechnology Scientist?",
+        "answer": "The competition level for Biotechnology Scientist is Medium."
+    },
+    {
+        "question": "What is the average salary (LPA) for a UI/UX Designer?",
+        "answer": "The average salary for a UI/UX Designer is around 7 LPA."
+    },
+    {
+        "question": "What are the key skills required for a UI/UX Designer?",
+        "answer": "The key skills for a UI/UX Designer include: Design Thinking; Prototyping; Creativity."
+    },
+    {
+        "question": "What degree is required to become a UI/UX Designer?",
+        "answer": "To become a UI/UX Designer, you typically need a B.Des/BTech."
+    },
+    {
+        "question": "Is there any entrance exam for UI/UX Designer?",
+        "answer": "The entrance exam for UI/UX Designer is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a UI/UX Designer?",
+        "answer": "The future scope for a UI/UX Designer is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for UI/UX Designer?",
+        "answer": "The job demand for UI/UX Designer is High."
+    },
+    {
+        "question": "What is the duration in years to become a UI/UX Designer?",
+        "answer": "It usually takes approximately 3 years."
+    },
+    {
+        "question": "What subjects are required for a UI/UX Designer?",
+        "answer": "The required subjects for UI/UX Designer are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a UI/UX Designer?",
+        "answer": "Yes, global opportunities for UI/UX Designer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a UI/UX Designer?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a UI/UX Designer?",
+        "answer": "The work-life balance for a UI/UX Designer is generally High."
+    },
+    {
+        "question": "Which academic stream is required for UI/UX Designer?",
+        "answer": "The required stream for UI/UX Designer is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in UI/UX Designer?",
+        "answer": "The financial investment is Low."
+    },
+    {
+        "question": "Under which category does UI/UX Designer fall?",
+        "answer": "UI/UX Designer falls under the Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a UI/UX Designer?",
+        "answer": "The competition level for UI/UX Designer is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Financial Analyst?",
+        "answer": "The average salary for a Financial Analyst is around 6 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Financial Analyst?",
+        "answer": "The key skills for a Financial Analyst include: Financial Modelling; Excel; Analysis."
+    },
+    {
+        "question": "What degree is required to become a Financial Analyst?",
+        "answer": "To become a Financial Analyst, you typically need a BCom/MBA."
+    },
+    {
+        "question": "Is there any entrance exam for Financial Analyst?",
+        "answer": "The entrance exam for Financial Analyst is: None specified."
+    },
+    {
+        "question": "What is the future scope of a career as a Financial Analyst?",
+        "answer": "The future scope for a Financial Analyst is considered to be Growing."
+    },
+    {
+        "question": "How is the job demand for Financial Analyst?",
+        "answer": "The job demand for Financial Analyst is High."
+    },
+    {
+        "question": "What is the duration in years to become a Financial Analyst?",
+        "answer": "It usually takes approximately 3 years."
+    },
+    {
+        "question": "What subjects are required for a Financial Analyst?",
+        "answer": "The required subjects for Financial Analyst are: Maths."
+    },
+    {
+        "question": "Are there global opportunities for a Financial Analyst?",
+        "answer": "Yes, global opportunities for Financial Analyst are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Financial Analyst?",
+        "answer": "The difficulty level is Medium."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Financial Analyst?",
+        "answer": "The work-life balance for a Financial Analyst is generally Medium."
+    },
+    {
+        "question": "Which academic stream is required for Financial Analyst?",
+        "answer": "The required stream for Financial Analyst is Commerce."
+    },
+    {
+        "question": "What is the financial investment required for a career in Financial Analyst?",
+        "answer": "The financial investment is Low."
+    },
+    {
+        "question": "Under which category does Financial Analyst fall?",
+        "answer": "Financial Analyst falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Financial Analyst?",
+        "answer": "The competition level for Financial Analyst is High."
+    },
+    {
+        "question": "What is the average salary (LPA) for a Professor/Lecturer?",
+        "answer": "The average salary for a Professor/Lecturer is around 5 LPA."
+    },
+    {
+        "question": "What are the key skills required for a Professor/Lecturer?",
+        "answer": "The key skills for a Professor/Lecturer include: Teaching; Research; Communication."
+    },
+    {
+        "question": "What degree is required to become a Professor/Lecturer?",
+        "answer": "To become a Professor/Lecturer, you typically need a Master\u2019s + PhD."
+    },
+    {
+        "question": "Is there any entrance exam for Professor/Lecturer?",
+        "answer": "The entrance exam for Professor/Lecturer is: NET/SET."
+    },
+    {
+        "question": "What is the future scope of a career as a Professor/Lecturer?",
+        "answer": "The future scope for a Professor/Lecturer is considered to be Stable."
+    },
+    {
+        "question": "How is the job demand for Professor/Lecturer?",
+        "answer": "The job demand for Professor/Lecturer is Medium."
+    },
+    {
+        "question": "What is the duration in years to become a Professor/Lecturer?",
+        "answer": "It usually takes approximately 7 years."
+    },
+    {
+        "question": "What subjects are required for a Professor/Lecturer?",
+        "answer": "The required subjects for Professor/Lecturer are: None specified."
+    },
+    {
+        "question": "Are there global opportunities for a Professor/Lecturer?",
+        "answer": "Yes, global opportunities for Professor/Lecturer are: Yes."
+    },
+    {
+        "question": "What is the difficulty level of pursuing a career as a Professor/Lecturer?",
+        "answer": "The difficulty level is High."
+    },
+    {
+        "question": "What can I expect regarding work-life balance as a Professor/Lecturer?",
+        "answer": "The work-life balance for a Professor/Lecturer is generally High."
+    },
+    {
+        "question": "Which academic stream is required for Professor/Lecturer?",
+        "answer": "The required stream for Professor/Lecturer is Any."
+    },
+    {
+        "question": "What is the financial investment required for a career in Professor/Lecturer?",
+        "answer": "The financial investment is Medium."
+    },
+    {
+        "question": "Under which category does Professor/Lecturer fall?",
+        "answer": "Professor/Lecturer falls under the Non-Tech category."
+    },
+    {
+        "question": "What is the competition level for becoming a Professor/Lecturer?",
+        "answer": "The competition level for Professor/Lecturer is Medium."
+    }
+]
