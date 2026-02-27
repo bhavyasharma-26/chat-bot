@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Career Counselor AI</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"Inter",sans-serif;
+}
+
+body{
+height:100vh;
+display:flex;
+background:linear-gradient(135deg,#0f172a,#1e293b);
+color:white;
+}
+
+/* Sidebar */
+.sidebar{
+width:280px;
+background:rgba(15,23,42,0.8);
+backdrop-filter:blur(20px);
+border-right:1px solid rgba(255,255,255,0.05);
+display:flex;
+flex-direction:column;
+padding:25px;
+}
+
+.logo{
+font-size:20px;
+font-weight:600;
+margin-bottom:25px;
+background:linear-gradient(135deg,#38bdf8,#6366f1);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+}
+
+.new-chat{
+padding:14px;
+border-radius:14px;
+border:none;
+background:linear-gradient(135deg,#2563eb,#6366f1);
+color:white;
+cursor:pointer;
+transition:0.3s;
+margin-bottom:20px;
+}
+
+.new-chat:hover{
+transform:translateY(-3px);
+box-shadow:0 10px 25px rgba(99,102,241,0.4);
+}
+
+.chat-list{
+flex:1;
+overflow-y:auto;
+}
+
+.chat-item{
+padding:12px;
+border-radius:12px;
+cursor:pointer;
+font-size:14px;
+opacity:0.8;
+transition:0.2s;
+}
+
+.chat-item:hover{
+background:rgba(255,255,255,0.08);
+opacity:1;
+}
+
+.chat-item.active{
+background:rgba(99,102,241,0.25);
+opacity:1;
+}
+
+/* Main Area */
+.main{
+flex:1;
+display:flex;
+flex-direction:column;
+background:linear-gradient(135deg,#111827,#1f2937);
+}
+
+.header{
+padding:20px 40px;
+font-weight:500;
+border-bottom:1px solid rgba(255,255,255,0.05);
+}
+
+.chat-container{
+flex:1;
+padding:40px 120px;
+overflow-y:auto;
+display:flex;
+flex-direction:column;
+}
+
+.message{
+max-width:60%;
+padding:16px 20px;
+border-radius:18px;
+margin-bottom:18px;
+font-size:14px;
+line-height:1.6;
+animation:fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn{
+from{opacity:0;transform:translateY(8px);}
+to{opacity:1;transform:translateY(0);}
+}
+
+.user{
+align-self:flex-end;
+background:linear-gradient(135deg,#2563eb,#6366f1);
+border-bottom-right-radius:6px;
+}
+
+.bot{
+align-self:flex-start;
+background:rgba(255,255,255,0.08);
+border-bottom-left-radius:6px;
+backdrop-filter:blur(12px);
+}
+
+/* Input */
+.input-area{
+padding:25px 120px;
+border-top:1px solid rgba(255,255,255,0.05);
+display:flex;
+gap:15px;
+background:#0f172a;
+}
+
+.input-area input{
+flex:1;
+padding:16px;
+border-radius:18px;
+border:1px solid rgba(255,255,255,0.1);
+background:rgba(255,255,255,0.05);
+color:white;
+font-size:14px;
+}
+
+.input-area input:focus{
+outline:none;
+border-color:#6366f1;
+box-shadow:0 0 0 3px rgba(99,102,241,0.2);
+}
+
+.input-area button{
+padding:16px 24px;
+border-radius:18px;
+border:none;
+background:linear-gradient(135deg,#2563eb,#6366f1);
+color:white;
+cursor:pointer;
+transition:0.3s;
+}
+
+.input-area button:hover{
+transform:translateY(-2px);
+box-shadow:0 8px 20px rgba(99,102,241,0.4);
+}
+</style>
+</head>
+
+<body>
+
+<div class="sidebar">
+<div class="logo">Synapse AI </div>
+<button class="new-chat" onclick="createNewChat()">+ New Chat</button>
+<div class="chat-list" id="chatList"></div>
+</div>
+
+<div class="main">
+<div class="header">Career Counselor Bot</div>
+<div class="chat-container" id="chatContainer"></div>
+
+<div class="input-area">
+<input type="text" id="userInput" placeholder="Ask about careers, skills, salary, roadmap...">
+<button onclick="sendMessage()">Send</button>
+</div>
+</div>
+
+<script>
+let chats = {};
+let currentChatId = null;
+
+function createNewChat(){
+const id="chat_"+Date.now();
+chats[id]=[];
+currentChatId=id;
+renderChatList();
+renderMessages();
+botIntro();
+}
+
+function botIntro(){
+addMessage("bot","Hi 👋 I'm your AI Career Counselor. Tell me about your interests and I'll guide you.");
+}
+
+function renderChatList(){
+const chatList=document.getElementById("chatList");
+chatList.innerHTML="";
+Object.keys(chats).forEach(id=>{
+const div=document.createElement("div");
+div.className="chat-item"+(id===currentChatId?" active":"");
+div.innerText="Conversation";
+div.onclick=()=>{currentChatId=id;renderChatList();renderMessages();};
+chatList.appendChild(div);
+});
+}
+
+function renderMessages(){
+const container=document.getElementById("chatContainer");
+container.innerHTML="";
+if(!currentChatId)return;
+chats[currentChatId].forEach(msg=>{
+displayMessage(msg.sender,msg.text);
+});
+container.scrollTop=container.scrollHeight;
+}
+
+function addMessage(sender,text){
+chats[currentChatId].push({sender,text});
+displayMessage(sender,text);
+renderChatList();
+}
+
+function displayMessage(sender,text){
+const container=document.getElementById("chatContainer");
+const div=document.createElement("div");
+div.className="message "+sender;
+div.innerText=text;
+container.appendChild(div);
+container.scrollTop=container.scrollHeight;
+}
+
+async function sendMessage(){
+const input=document.getElementById("userInput");
+const text=input.value.trim();
+if(!text||!currentChatId)return;
+
+addMessage("user",text);
+input.value="";
+
+addMessage("bot","Thinking...");
+
+try{
+const response = await fetch("http://127.0.0.1:8000/chat", {
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify({message:text})
+});
+
+const data = await response.json();
+chats[currentChatId].pop(); // remove Thinking...
+addMessage("bot", data.reply);
+
+}catch(error){
+chats[currentChatId].pop();
+addMessage("bot","⚠ Unable to connect to backend.");
+}
+}
+
+document.getElementById("userInput").addEventListener("keypress",function(e){
+if(e.key==="Enter"){sendMessage();}
+});
+
+createNewChat();
+</script>
+
+</body>
+</html>
