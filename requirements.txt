@@ -1,0 +1,13 @@
+torch
+pandas
+numpy
+faiss-cpu
+flask
+flask-cors
+sentence-transformers
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
